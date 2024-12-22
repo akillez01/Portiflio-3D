@@ -3,6 +3,6 @@ import { defineConfig } from 'vite';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Portiflio-3D/', // Corrija o caminho base para o nome do repositório
+  base: '/Portiflio-3D/',
   plugins: [react()],
 });
